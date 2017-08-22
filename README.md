@@ -10,8 +10,10 @@ Collaborators
 
 Abe -  http://hamoid.com/ -
 
-Peter Kolski - Yuri - http://yurishimaoka.org/
+Peter Kolski 
 
 Thanks to 
-https://fablab.berlin/en/ - 
+
+https://fablab.berlin/en/ 
+
 http://spektrumberlin.de/
