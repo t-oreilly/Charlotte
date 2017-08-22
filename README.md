@@ -6,11 +6,12 @@ of the robot by uploading different codes. Watch a video of the robot in action 
 
 Charlotte was first made in a http://schoolofma.org/ workshop in 2015
 
-Collaborators
-Abe -  http://hamoid.com/
-Peter Kolski
-Yuri - http://yurishimaoka.org/
+Collaborators 
+
+Abe -  http://hamoid.com/ -
+
+Peter Kolski - Yuri - http://yurishimaoka.org/
 
 Thanks to 
-https://fablab.berlin/en/
+https://fablab.berlin/en/ - 
 http://spektrumberlin.de/
